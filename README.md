@@ -1,4 +1,4 @@
-# Music Player – Task
+# Music Player - TundeBeatz
 
 This sleek, responsive music player It features a modern UI, an animated rotating album cover, and full playlist support using HTML, CSS, and JavaScript.
 
