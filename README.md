@@ -1,6 +1,6 @@
-# 🎵 CodeAlpha Music Player – Task 4
+# Music Player – Task
 
-This sleek, responsive music player was built as part of **Task 4** for the Frontend Development Internship at **CodeAlpha**. It features a modern UI, an animated rotating album cover, and full playlist support using HTML, CSS, and JavaScript.
+This sleek, responsive music player It features a modern UI, an animated rotating album cover, and full playlist support using HTML, CSS, and JavaScript.
 
 📸 Live Preview
 [🔗 Deployed Link](#)
@@ -32,10 +32,6 @@ This sleek, responsive music player was built as part of **Task 4** for the Fron
 
 📁 **Project Structure**
 music-player/ ├── index.html ├── styles.css ├── script.js └── assests/ ├── audio/ ├── images/ └── logo.png
-
-📌 **Internship Details**
-
-This project was developed as **Task 4** during the **CodeAlpha Internship Program (April–May 2025)** under the **Frontend Development** track.
 
 ---
 
